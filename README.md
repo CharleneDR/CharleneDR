@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Charlène Da Rugna</h1>
+<h1 align="center">Hello there 👋, I'm Charlène Da Rugna (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 - 🔭 I’m currently working on [Le plateau](https://github.com/WildCodeSchool/2022_09_PHP_Lyon_Le_plateau)
+
+- 🌱 I’m currently learning **PHP and JS native, soon : Symfony 👀**
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/charlenedr/](https://www.linkedin.com/in/charlenedr/)
 
-- ⚡ Fun fact **"Bow ties are cool"**
+- ⚡ Fun fact **I was used to be a biological engineer before finding my true vocation. Also : "Bow ties are cool"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
