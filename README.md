@@ -1,4 +1,5 @@
-<h1 align="center">Hello there 👋, I'm Charlène Da Rugna (and not General Kenobi)</h1>
+<h1 align="center">Hello there 👋, I'm Charlène Da Rugna<br>
+(and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
 - 🔭 I’m currently working on [Le plateau](https://github.com/WildCodeSchool/2022_09_PHP_Lyon_Le_plateau)
