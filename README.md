@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/charlenedr/](https://www.linkedin.com/in/charlenedr/)
 
-- ⚡ Fun fact **I was used to be a biological engineer before finding my true vocation. Also : "Bow ties are cool"**
+- ⚡ Fun fact **I was used to be a biological engineer before finding my true vocation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
