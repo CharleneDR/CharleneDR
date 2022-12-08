@@ -2,9 +2,9 @@
 (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on [MovieGuessr](https://github.com/JonasJallet/MovieGuessr)
+- 🔭 I’m currently working on [Wild Series](https://github.com/CharleneDR/wild-series2)
 
-- 🌱 I’m currently learning **PHP and JS native, soon : Symfony 👀**
+- 🌱 I’m currently learning **Symfony framework 👀**
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
