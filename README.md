@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Charlène Da Rugna<br>
 (and not General Kenobi)</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate fullstack developer from Lyon (France)</h3>
 
 - 🔭 I’m currently working on [Wild Series](https://github.com/CharleneDR/wild-series2)
 
