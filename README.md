@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Symfony framework 👀**.
 
-- 💼 I'm currently looking for an apprenticeship to pratice **PHP** or **JAVA**.
+- 💼 I'm currently looking for an **apprenticeship** starting on February to pratice PHP or JAVA.
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
