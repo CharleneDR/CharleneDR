@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on [Wild Series](https://github.com/CharleneDR/wild-series2)
 
-- 🌱 I’m currently learning **Symfony framework 👀**
+- 🌱 I’m currently learning **Symfony framework 👀**.
+
+- 💼 I'm currently looking for an apprenticeship to pratice **PHP** or **JAVA**.
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
