@@ -2,11 +2,11 @@
 (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from Lyon (France)</h3>
 
-- 🔭 I’m currently working on [Wild Series](https://github.com/CharleneDR/wild-series2)
+- 🔭 I’m currently working on [Wild Series](https://github.com/CharleneDR/wild-series2) and Externatic (not public yet)
 
 - 🌱 I’m currently learning **Symfony framework 👀**.
 
-- 💼 I'm currently looking for an **apprenticeship** starting on February to pratice PHP or JAVA.
+- 💼 I'm currently looking for an **apprenticeship** or an **internship** starting on February to pratice PHP or JAVA.
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
