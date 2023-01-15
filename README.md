@@ -2,7 +2,7 @@
 (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from Lyon (France)</h3>
 
-- 🔭 I’m currently working on [Wild Series](https://github.com/CharleneDR/wild-series2) and Externatic (not public yet)
+- 🔭 I’m currently working on Externatic (not public yet)
 
 - 🌱 I’m currently learning **Symfony framework 👀**.
 
