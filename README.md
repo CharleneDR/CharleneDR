@@ -2,9 +2,7 @@
 (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from Lyon (France)</h3>
 
-- 🔭 I’m currently working on Externatic (not public yet)
-
-- 🌱 I’m currently learning **Symfony framework 👀**.
+- 🌱 I’m currently learning **Java 👀**.
 
 - 💼 I'm currently looking for an **apprenticeship** or an **internship** starting on February to pratice PHP or JAVA.
 
