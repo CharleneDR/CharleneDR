@@ -2,9 +2,9 @@
 (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from Lyon (France)</h3>
 
-- 🌱 I’m currently learning **Java 👀**.
+- 🌱 I’m currently learning **Java ☕** and **Angular 🅰️**.
 
-- 💼 I'm currently looking for an **apprenticeship** or an **internship** starting on February to pratice PHP or JAVA.
+- 💼 I'm currently doing an internship at SQLI (Lyon) as Java developer until September 2023.
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
