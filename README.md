@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java ☕** and **Angular 🅰️**.
 
-- 💼 I'm currently doing an internship at SQLI (Lyon) as Java developer until September 2023.
+- 💼 I'm currently doing an internship at SQLI (Lyon) as Java / Angular developer until September 2023.
 
 - 📫 How to reach me **https://www.linkedin.com/in/charlenedr/**
 
