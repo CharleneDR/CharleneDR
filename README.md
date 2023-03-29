@@ -2,7 +2,7 @@
 (and not General Kenobi)</h1>
 <h3 align="center">A passionate fullstack developer from Lyon (France)</h3>
 
-- 🌱 I’m currently learning **Java ☕** and **Angular 🅰️**.
+- 🌱 I’m currently learning **Java ☕ / Spring 🍃** and **Angular 🅰️**.
 
 - 💼 I'm currently doing an internship at SQLI (Lyon) as Java / Angular developer until September 2023.
 
